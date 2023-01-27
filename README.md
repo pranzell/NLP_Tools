@@ -2,12 +2,15 @@
 ___
 
 `NLP_basics_preprocessing_vectorization_similarity.ipynb`
+
 Preprocessing which works fairly well on general text (provides a basic and advanced architectural pipeline), Vectorization, Similarity.
 
 `NLP_clusteringTechniques.ipynb`
+
 Comparison of various clustering technqiues on short textual data.
 
 `NLP_fastSimilarityBert.ipynb`
+
 Ultra fast semantic similarity computation using sparse matrices.
 
 
